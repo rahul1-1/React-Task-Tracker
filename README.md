@@ -2,8 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+![2022-04-10](https://user-images.githubusercontent.com/68332209/162631940-69698046-67ac-4443-9463-fbc54482b78d.png)
+
+![2022-04-10 (1)](https://user-images.githubusercontent.com/68332209/162631945-9194fb18-0ef1-41b3-a8b0-7f1bd6a1dd11.png)
+![2022-04-10 (3)](https://user-images.githubusercontent.com/68332209/162631960-61f82852-de9f-4e87-b937-f1706b1937c6.png)
+
+![2022-04-10 (2)](https://user-images.githubusercontent.com/68332209/162631961-a52c01bf-3780-45c6-98d1-37b1e2800350.png)
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
